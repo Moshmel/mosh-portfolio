@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mosh-portfolio/static/css/main.55025dcb.chunk.css",
+    "main.js": "/mosh-portfolio/static/js/main.73064935.chunk.js",
+    "main.js.map": "/mosh-portfolio/static/js/main.73064935.chunk.js.map",
+    "runtime~main.js": "/mosh-portfolio/static/js/runtime~main.a7cc8764.js",
+    "runtime~main.js.map": "/mosh-portfolio/static/js/runtime~main.a7cc8764.js.map",
+    "static/js/2.b5c12984.chunk.js": "/mosh-portfolio/static/js/2.b5c12984.chunk.js",
+    "static/js/2.b5c12984.chunk.js.map": "/mosh-portfolio/static/js/2.b5c12984.chunk.js.map",
+    "index.html": "/mosh-portfolio/index.html",
+    "precache-manifest.f3bd4ef4c1a4e3fac8883d5c2d595d77.js": "/mosh-portfolio/precache-manifest.f3bd4ef4c1a4e3fac8883d5c2d595d77.js",
+    "service-worker.js": "/mosh-portfolio/service-worker.js",
+    "static/css/main.55025dcb.chunk.css.map": "/mosh-portfolio/static/css/main.55025dcb.chunk.css.map",
+    "static/media/App.css": "/mosh-portfolio/static/media/RobotoCondensed-Regular.52ee8b59.ttf"
+  }
+}
